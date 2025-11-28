@@ -1,4 +1,7 @@
-#  **Dashboard Vendas Mensais **
+![Dashboard Vendas Mensais](DashboardVendasMensais.png)
+
+
+#  **Dashboard Vendas Mensais**
 
 ## **Visão Geral**
 
