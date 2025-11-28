@@ -14,7 +14,6 @@ A solução permite:
 - Identificar os fatores que mais influenciaram a variação mensal
 - Analisar resultados por **categoria**, **produto** e **região**
 
-O dashboard foi desenvolvido com foco em clareza, performance e suporte à tomada de decisão.
 ---
 
 ##  **Tecnologias Utilizadas**
